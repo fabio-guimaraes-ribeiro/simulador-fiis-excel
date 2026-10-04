@@ -128,7 +128,7 @@ Dividendos mensais estimados: R$ 9.230,48
 
 A alteração do perfil modifica a distribuição do aporte entre os tipos de FIIs, mantendo os demais parâmetros da simulação.
 
-![Comparação entre os perfis Moderado e Arrojado](./simulacoes-moderado-arrojado.png)
+![Comparação entre os perfis Moderado e Arrojado](simulacoes-moderado-arrojado..png)
 
 ## Desenvolvimento
 
